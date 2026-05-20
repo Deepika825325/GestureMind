@@ -1,18 +1,23 @@
 # Python
+.venv/
 __pycache__/
 *.pyc
 
-# Virtual Environment
-.venv/
+# Logs
+*.log
 
-# Environment Variables
+# Next.js
+.next/
+out/
+
+# Node
+node_modules/
+
+# Environment
 .env
 
 # VS Code
 .vscode/
-
-# Jupyter
-.ipynb_checkpoints/
 
 # OS Files
 .DS_Store
